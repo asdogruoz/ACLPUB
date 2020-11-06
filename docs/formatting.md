@@ -290,6 +290,16 @@ Example arXiv paper:
 
 > Mohammad Sadegh Rasooli and Joel R. Tetreault. 2015. [Yara parser: A fast and accurate dependency parser](http://arxiv.org/abs/1503.06733). *Computing Research Repository*, arXiv:1503.06733. Version 2.
 
+APA Style Referencing for Journals (in Humanities & Social Sciences):
+Doğruöz, A.S. & Backus, A. (2007). Postverbal elements in immigrant Turkish: Evidence of change?. International Journal of Bilingualism, 11 (2), 185-220.https://doi.org/10.1177/13670069070110020301
+
+APA Style Referencing for Book Chapters:
+Carstairs‐McCarthy, A. (2017). Origins of Language.In M. Aronoff and J. Rees‐Miller (Eds.), The Handbook of Linguistics (pp-3-19).John Wiley & Sons Ltd.  doi:10.1002/9781119072256.ch1
+
+APA Style Referencing for Books:
+Thomason, S. (2015). Endangered Languages: An Introduction (Cambridge Textbooks in Linguistics). Cambridge University Press. doi:10.1017/CBO9781139033817
+
+
 ## Appendices
 
 Appendices are material that can be read, and include lemmas, formulas, proofs, and tables that are not critical to the reading and understanding of the paper.
